@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-import entidade.PainelPrincipal;
+import render.PainelPrincipal;
 
 class Main{
    public static void main(String[] args){
